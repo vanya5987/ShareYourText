@@ -1,5 +1,4 @@
 <pre style="font-family: monospace; white-space: pre; margin: 20px 0; background: #f5f5f5; padding: 15px; border-radius: 5px;">
-<h1 align="center">Этот проект является простым аналогом приложения Pastebin. Приложение было сделано исключительно для демонстрации моих навыков в C#,но в дальнейшем работа над ним может быть продолжена.</h1>
 <h1 align="center">В приложении реализован следующий функционал:.</h1>
 
 •Реализована простая авторизация при помощи Google APIs.
